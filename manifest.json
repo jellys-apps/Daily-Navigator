@@ -1,0 +1,19 @@
+{
+  "name": "Daily Navigator — 밥부터 먹고 놀자",
+  "short_name": "Daily Navigator",
+  "description": "오늘의 운동·영어·독서, 남은 밥의 양을 보여주는 시간 내비게이션",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#F6EFE1",
+  "theme_color": "#F6EFE1",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
